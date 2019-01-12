@@ -1,0 +1,2 @@
+Voici le code de notre Factory produisant des claviers AZERTY et QWERTY en fonction de la demande du client.
+La demande du client est symbolisée par un String appelant le type de clavier voulu!
